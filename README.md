@@ -1,2 +1,2 @@
 # Eyes-on-dice-recognition
-The task is described in the Eylets_recognition folder
+The project is described in the following [report](Eyelets_recognition/Sprawozdanie-KCK.pdf).
